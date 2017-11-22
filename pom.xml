@@ -7,8 +7,11 @@
     <groupId>com.test</groupId>
     <artifactId>JenkinsTest</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>test1</module>
+    </modules>
 
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
     
 </project>
